@@ -12,3 +12,7 @@ ip a
 
 gcc -v
 
+
+docker --version
+
+lsmod 
